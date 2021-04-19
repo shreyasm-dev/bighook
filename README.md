@@ -36,4 +36,4 @@ console.log(val1, val2); // "bar foo"
 
 ## Docs
 
-The docs can be found [here]([./docs.md](https://shreyasm-dev.github.io/bighook/docs))
+The docs can be found [here](https://shreyasm-dev.github.io/bighook/docs)
