@@ -2,6 +2,8 @@
 
 Easily hook on to the beginning or end of function calls
 ___
+![Repo statistics](https://gh-card.dev/repos/shreyasm-dev/bighook.svg)
+___
 
 ## Installation
 
