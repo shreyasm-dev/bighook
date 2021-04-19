@@ -1,6 +1,6 @@
 {
   "name": "bighook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easily hook on to the beginning or end of function calls",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/shreyasm-dev/bighook/issues"
   },
-  "homepage": "https://github.com/shreyasm-dev/bighook#readme"
+  "homepage": "https://github.com/shreyasm-dev/bighook#readme",
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prefer-arrow": "^1.2.3"
+  }
 }
