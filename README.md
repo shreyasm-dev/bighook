@@ -2,7 +2,7 @@
 
 Easily hook on to the beginning or end of function calls
 <hr>
-![Repo statistics](https://gh-card.dev/repos/shreyasm-dev/bighook.svg)
+<img src='https://gh-card.dev/repos/shreyasm-dev/bighook.svg' alt='Repo stats'>
 <hr>
 
 ## Installation
