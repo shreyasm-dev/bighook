@@ -1,9 +1,9 @@
 # Bighook
 
 Easily hook on to the beginning or end of function calls
-___
+<hr>
 ![Repo statistics](https://gh-card.dev/repos/shreyasm-dev/bighook.svg)
-___
+<hr>
 
 ## Installation
 
