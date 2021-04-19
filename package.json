@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "docs": "documentation build -o docs.md -f md --markdown-toc false"
   },
   "repository": {
     "type": "git",
