@@ -1,6 +1,6 @@
 {
   "name": "bighook",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Easily hook on to the beginning or end of function calls",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
     "url": "git+https://github.com/shreyasm-dev/bighook.git"
   },
   "keywords": [
+    "bighook",
     "hook",
     "function",
     "hooks",
