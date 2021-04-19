@@ -1,0 +1,27 @@
+{
+  "name": "bighook",
+  "version": "1.0.0",
+  "description": "Easily hook on to the beginning or end of function calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyasm-dev/bighook.git"
+  },
+  "keywords": [
+    "hook",
+    "function",
+    "hooks",
+    "api",
+    "call",
+    "hooking"
+  ],
+  "author": "shreyasm-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shreyasm-dev/bighook/issues"
+  },
+  "homepage": "https://github.com/shreyasm-dev/bighook#readme"
+}
